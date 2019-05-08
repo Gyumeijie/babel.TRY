@@ -1,0 +1,14 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "targets": {
+          "node": "2"
+        },
+        "useBuiltIns": "usage",
+        "corejs": "3.0.0"
+      }
+    ]
+  ]
+}
