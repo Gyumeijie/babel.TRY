@@ -1,2 +1,3 @@
 # Introduction
-guide to how to configure babel properly
+
+try javascript compiler babel
